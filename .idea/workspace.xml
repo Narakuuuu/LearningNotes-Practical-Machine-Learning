@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7573c65a-b0d5-4938-beff-3d7453b799ea" name="Changes" comment="--content=大文件出坑">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/2_1_exploratory_data_analysis_for_house_sales/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/2_1_exploratory_data_analysis_for_house_sales/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/2.1 Exploratory data analysis for house sales/学习笔记--2.1 探索性数据分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/menu/2.1 Exploratory data analysis for house sales/学习笔记--2.1 探索性数据分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/2_1_exploratory_data_analysis_for_house_sales/.ipynb_checkpoints/demo-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/2_1_exploratory_data_analysis_for_house_sales/.ipynb_checkpoints/demo-checkpoint.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
