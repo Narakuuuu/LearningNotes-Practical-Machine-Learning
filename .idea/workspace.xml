@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7573c65a-b0d5-4938-beff-3d7453b799ea" name="Changes" comment="--content=大文件出坑">
-      <change afterPath="$PROJECT_DIR$/menu/3.2 Decision Trees/学习笔记--3.2 决策树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/3.3 Linear Methods/学习笔记--3.2 线性模型.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/3.2 Decision Trees/学习笔记--3.2 决策树.md" beforeDir="false" afterPath="$PROJECT_DIR$/menu/3.2 Decision Trees/学习笔记--3.2 决策树.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
